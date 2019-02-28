@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,,,2019-02-27 14:42:06,2019-02-27 14:42:13,7.344s,FAILED
+,,,,,,
+Test Cases/Test3,,,2019-02-27 14:42:07,2019-02-27 14:42:13,6.628s,FAILED
+"sendRequestAndVerify(findTestObject(""REST/CreateUser""))",,,2019-02-27 14:42:07,2019-02-27 14:42:13,5.246s,PASSED
+"sendRequestAndVerify(findTestObject(""REST/ListUsers""))",,,2019-02-27 14:42:13,2019-02-27 14:42:13,0.660s,FAILED

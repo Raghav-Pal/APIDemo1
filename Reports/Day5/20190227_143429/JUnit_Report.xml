@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Day5" time="4" tests="1" failures="0" errors="0">
+   <testsuite name="Day5" tests="1" failures="0" errors="0" time="4" timestamp="2019-02-27 14:34:31" hostname="Administrator - EC2AMAZ-NDM7R0M" id="Test Suites/Day5">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Administrator\\Katalon Studio\\APIDemoProject_Feb2019\\Reports\\Day5\\20190227_143429"/>
+         <property name="logFiles" value="C:\\Users\\Administrator\\Katalon Studio\\APIDemoProject_Feb2019\\Reports\\Day5\\20190227_143429\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Administrator - EC2AMAZ-NDM7R0M"/>
+         <property name="hostAddress" value="172.20.128.1"/>
+         <property name="os" value="Windows Server 2016 64bit"/>
+         <property name="katalonVersion" value="5.9.1.2"/>
+      </properties>
+      <testcase name="Test Cases/Test3" classname="Test Cases/Test3" status="PASSED">
+         <system-out><![CDATA[2019-02-27 14:34:31 - [TEST_CASE][PASSED] - Test Cases/Test3: Test Cases/Test3
+
+2019-02-27 14:34:31 - [TEST_STEP][PASSED] - sendRequest(findTestObject("REST/CreateUser")): Send request successfully
+
+2019-02-27 14:34:34 - [MESSAGE][INFO] - HAR: C:\Users\Administrator\Katalon Studio\APIDemoProject_Feb2019\Reports\Day5\20190227_143429\requests\main\0.har
+
+2019-02-27 14:34:34 - [MESSAGE][PASSED] - Send request successfully
+
+2019-02-27 14:34:34 - [TEST_STEP][PASSED] - sendRequest(findTestObject("REST/ListUsers")): Send request successfully
+
+2019-02-27 14:34:35 - [MESSAGE][INFO] - HAR: C:\Users\Administrator\Katalon Studio\APIDemoProject_Feb2019\Reports\Day5\20190227_143429\requests\main\1.har
+
+2019-02-27 14:34:35 - [MESSAGE][PASSED] - Send request successfully
+
+2019-02-27 14:34:35 - [TEST_STEP][PASSED] - sendRequest(findTestObject("REST/UpdateUser")): Send request successfully
+
+2019-02-27 14:34:35 - [MESSAGE][INFO] - HAR: C:\Users\Administrator\Katalon Studio\APIDemoProject_Feb2019\Reports\Day5\20190227_143429\requests\main\2.har
+
+2019-02-27 14:34:35 - [MESSAGE][PASSED] - Send request successfully
+
+2019-02-27 14:34:35 - [TEST_STEP][PASSED] - sendRequest(findTestObject("REST/DeleteUser")): Send request successfully
+
+2019-02-27 14:34:35 - [MESSAGE][INFO] - HAR: C:\Users\Administrator\Katalon Studio\APIDemoProject_Feb2019\Reports\Day5\20190227_143429\requests\main\3.har
+
+2019-02-27 14:34:35 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-02-27 14:34:31 - [TEST_SUITE][PASSED] - Day5: Test Cases/Test3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
